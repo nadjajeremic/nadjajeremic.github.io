@@ -52,7 +52,7 @@ a:hover {
 main {
 	display: grid;
 	width: 100%;
-	grid-template-columns: 292px 292px 292px 292px 292px;
+	grid-template-columns: 50vh 50vh 50vh 50vh 50vh;
 }
 
 .projekat1 img {
