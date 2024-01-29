@@ -83,7 +83,7 @@ p1 {
 	font-size: 27px;
 	color: white;
     text-align: center;	
-    margin-left: 80px;
+    margin-left: 10vh;
 }
 
 .projekat1:hover .sredina {
@@ -121,7 +121,7 @@ p2 {
 	font-size: 27px;
 	color: white;
     text-align: center;	
-    margin-left: 80px;
+    margin-left: 13vh;
 }
 
 .projekat2:hover .sredina1 {
@@ -159,7 +159,7 @@ p3 {
 	font-size: 27px;
 	color: white;
     text-align: center;	
-    margin-left: 130px;
+    margin-left: 18vh;
 }
 
 .projekat3:hover .sredina2 {
@@ -197,7 +197,7 @@ p4 {
 	font-size: 27px;
 	color: white;
     text-align: center;	
-    margin-left: 100px;
+    margin-left: 16vh;
 }
 
 .projekat4:hover .sredina3 {
@@ -235,7 +235,7 @@ p5 {
 	font-size: 27px;
 	color: black;
     text-align: center;	
-    margin-left: 130px;
+    margin-left: 18vh;
 }
 
 .projekat5:hover .sredina4 {
