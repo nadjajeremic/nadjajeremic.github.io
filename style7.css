@@ -1,0 +1,106 @@
+body {
+	background-color: white;
+	margin: 0;
+}
+
+header {
+	position: sticky;
+	top: 0;
+	margin: 0;
+	padding: 5px 1px;
+	display: grid;
+	grid-template-columns: auto auto;
+	background-color: white;
+}
+
+h1 {
+	font-family: Poppins, SemiBold;
+	font-size: 20px;
+	color: black;
+	width: 200px;
+	padding-bottom: 8px;
+	margin: 0;
+}
+
+p {
+	font-family: Poppins, SemiBold;
+	font-size: 20px;
+	color: black;
+	margin: 0;
+}
+
+#naslov {
+	margin-left: 20px;
+}
+
+#meni {
+	justify-self: end;
+	margin-right: 20px;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: gray;
+}
+
+.projekat img {
+	width: 100%;
+}
+
+p1 {
+	font-family: Poppins, SemiBold;
+	font-size: 18px;
+	color: black;
+}
+
+p2 {
+	font-family: Poppins, SemiBold;
+	font-size: 18px;
+	color: black;
+}
+
+#slika1 {
+	width: 350px;
+	height: 500px;
+	float: left;
+	margin-left: 150px;
+	margin-top: 0px;
+}
+
+#slika3 {
+	width: 600px;
+	height: 400px;
+	float: right;
+	margin-top: 20px;
+	margin-right: 100px;
+	margin-bottom: 40px;
+}
+
+.projekat1 {
+	display: grid;
+	grid-template-columns: auto auto ;
+	grid-gap: 50px;
+	margin-top: 60px;
+
+}
+
+.projekat2 {
+	display: grid;
+	grid-template-columns: auto auto ;
+	grid-gap: 50px;
+	margin-top: 30px;
+	margin-left: 120px;
+
+}
+
+.projekat2 p2 {
+	margin-top: 70px;
+}
+
+.projekat1 p1{
+	margin-right: 50px;
+}

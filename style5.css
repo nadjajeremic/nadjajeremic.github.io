@@ -1,0 +1,244 @@
+body {
+	background-color: #ffffff;
+	margin: 0;
+}
+
+header {
+	position: static;
+	top: 0;
+	margin: 0;
+	padding: 5px 1px;
+	display: grid;
+	grid-template-columns: auto auto;
+	background-color: rgb(0, 0, 0, 0);
+}
+
+h1 {
+	font-family: Poppins, SemiBold;
+	font-size: 20px;
+	color: black;
+	width: 200px;
+	padding-bottom: 8px;
+	margin: 0;
+}
+
+p {
+	font-family: Poppins, SemiBold;
+	font-size: 20px;
+	color: black;
+	margin: 0;
+}
+
+#naslov {
+	margin-left: 20px;
+}
+
+#meni {
+	justify-self: end;
+	margin-right: 20px;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: gray;
+}
+
+main {
+	display: grid;
+	width: 100%;
+	grid-template-columns: 292px 292px 292px 292px 292px;
+}
+
+.projekat1 img {
+	width: 100%;
+}
+
+.projekat1 {
+	position: relative;
+	display: block;
+}
+
+.sredina {
+	width: 20%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	display: flex;
+	justify-self: center;
+	align-items: center;
+	opacity: 0;
+	transition: 0.6s;
+}
+
+
+p1 {
+	font-family: Poppins, SemiBold;
+	font-size: 27px;
+	color: white;
+    text-align: center;	
+    margin-left: 80px;
+}
+
+.projekat1:hover .sredina {
+	opacity: 1
+}
+.projekat1:hover {
+	opacity: 70%;
+}
+
+.projekat2 img {
+	width: 100%;
+}
+
+.projekat2 {
+	position: relative;
+	display: block;
+}
+
+.sredina1 {
+	width: 20%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	display: flex;
+	justify-self: center;
+	align-items: center;
+	opacity: 0;
+	transition: 0.6s;
+}
+
+
+p2 {
+	font-family: Poppins, SemiBold;
+	font-size: 27px;
+	color: white;
+    text-align: center;	
+    margin-left: 80px;
+}
+
+.projekat2:hover .sredina1 {
+	opacity: 1
+}
+.projekat2:hover {
+	opacity: 70%;
+}
+
+.projekat3 img {
+	width: 100%;
+}
+
+.projekat3 {
+	position: relative;
+	display: block;
+}
+
+.sredina2 {
+	width: 20%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	display: flex;
+	justify-self: center;
+	align-items: center;
+	opacity: 0;
+	transition: 0.6s;
+}
+
+
+p3 {
+	font-family: Poppins, SemiBold;
+	font-size: 27px;
+	color: white;
+    text-align: center;	
+    margin-left: 130px;
+}
+
+.projekat3:hover .sredina2 {
+	opacity: 1
+}
+.projekat3:hover {
+	opacity: 70%;
+}
+
+.projekat4 img {
+	width: 100%;
+}
+
+.projekat4 {
+	position: relative;
+	display: block;
+}
+
+.sredina3 {
+	width: 20%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	display: flex;
+	justify-self: center;
+	align-items: center;
+	opacity: 0;
+	transition: 0.6s;
+}
+
+
+p4 {
+	font-family: Poppins, SemiBold;
+	font-size: 27px;
+	color: white;
+    text-align: center;	
+    margin-left: 100px;
+}
+
+.projekat4:hover .sredina3 {
+	opacity: 1
+}
+.projekat4:hover {
+	opacity: 70%;
+}
+
+.projekat5 img {
+	width: 100%;
+}
+
+.projekat5 {
+	position: relative;
+	display: block;
+}
+
+.sredina4 {
+	width: 20%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	display: flex;
+	justify-self: center;
+	align-items: center;
+	opacity: 0;
+	transition: 0.6s;
+}
+
+
+p5 {
+	font-family: Poppins, SemiBold;
+	font-size: 27px;
+	color: black;
+    text-align: center;	
+    margin-left: 130px;
+}
+
+.projekat5:hover .sredina4 {
+	opacity: 1
+}
+.projekat5:hover {
+	opacity: 70%;
+}
