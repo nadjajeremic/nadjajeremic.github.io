@@ -17,7 +17,7 @@ h1 {
 	font-family: Poppins, SemiBold;
 	font-size: 20px;
 	color: black;
-	width: 200px;
+	width: 250px;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -50,7 +50,7 @@ a:hover {
 main {
 	display: grid;
 	grid-template-columns: auto auto auto;
-	margin: 8vh 10vw;
+	margin: 12vh 12vw;
 	grid-column-gap: 2vw;
 	grid-row-gap: 1.5vw;
 }
@@ -66,9 +66,11 @@ p1 {
 }
 
 #tekst {
-	margin-left: 19vh;
+	margin-left: 15vh;
 	margin-top: 5vh;
 }
+
+
 
 .projekat1 video {
 	margin-top: 6vh;
