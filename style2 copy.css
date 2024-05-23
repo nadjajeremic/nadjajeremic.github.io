@@ -50,12 +50,12 @@ a:hover {
 main {
 	display: grid;
 	grid-template-columns: auto auto auto;
-	margin: 12vh 12vw;
+	margin: 15vh 15vw;
 	grid-column-gap: 2vw;
 	grid-row-gap: 1.5vw;
 }
 
-.projekat img {
+.projekat video {
 	width: 100%;
 }
 
